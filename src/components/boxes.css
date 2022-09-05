@@ -1,0 +1,21 @@
+.boxes {
+    display: flex;
+}
+.box1 {
+    width: 300px;
+    height: 200px;
+    margin: 10px;
+    background-color: grey;
+}
+.box2 {
+    width: 300px;
+    height: 200px;
+    margin: 10px;
+    background-color: grey;
+}
+.box3 {
+    width: 300px;
+    height: 200px;
+    margin: 10px;
+    background-color: grey;
+}

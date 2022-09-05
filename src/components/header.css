@@ -1,0 +1,12 @@
+.header {
+    width: 950px;
+    height: 25px;
+    color: white;
+    background-color: grey;
+    padding: 10px;
+    text-align: center;
+}
+li{
+    display: inline;
+    padding: 0px 15px;
+}

@@ -1,0 +1,17 @@
+.footer {
+    width: 950px;
+    height: 80px;
+    background-color: rgb(202, 199, 199);
+    text-align: center;
+    padding: 10px;
+    margin: 5px 0px;
+
+}
+.contactUs {
+    background-color: rgb(113, 113, 113);
+    border: none;
+    color: white;
+    padding: 10px 50px;
+    text-align: center;
+    margin: 10px;
+}
